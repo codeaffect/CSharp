@@ -1,0 +1,10 @@
+C:\projects\CSharp\algorithms\dfs\bin\Debug\netcoreapp2.0\dfs.deps.json
+C:\projects\CSharp\algorithms\dfs\bin\Debug\netcoreapp2.0\dfs.runtimeconfig.json
+C:\projects\CSharp\algorithms\dfs\bin\Debug\netcoreapp2.0\dfs.runtimeconfig.dev.json
+C:\projects\CSharp\algorithms\dfs\bin\Debug\netcoreapp2.0\dfs.dll
+C:\projects\CSharp\algorithms\dfs\bin\Debug\netcoreapp2.0\dfs.pdb
+C:\projects\CSharp\algorithms\dfs\obj\Debug\netcoreapp2.0\dfs.csproj.CoreCompileInputs.cache
+C:\projects\CSharp\algorithms\dfs\obj\Debug\netcoreapp2.0\dfs.AssemblyInfoInputs.cache
+C:\projects\CSharp\algorithms\dfs\obj\Debug\netcoreapp2.0\dfs.AssemblyInfo.cs
+C:\projects\CSharp\algorithms\dfs\obj\Debug\netcoreapp2.0\dfs.dll
+C:\projects\CSharp\algorithms\dfs\obj\Debug\netcoreapp2.0\dfs.pdb
