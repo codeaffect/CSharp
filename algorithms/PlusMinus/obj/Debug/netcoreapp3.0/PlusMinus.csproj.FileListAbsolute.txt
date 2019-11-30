@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\PlusMinus\bin\Debug\netcoreapp3.0\PlusMinus.exe
+C:\github\CSharp\algorithms\PlusMinus\bin\Debug\netcoreapp3.0\PlusMinus.deps.json
+C:\github\CSharp\algorithms\PlusMinus\bin\Debug\netcoreapp3.0\PlusMinus.runtimeconfig.json
+C:\github\CSharp\algorithms\PlusMinus\bin\Debug\netcoreapp3.0\PlusMinus.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\PlusMinus\bin\Debug\netcoreapp3.0\PlusMinus.dll
+C:\github\CSharp\algorithms\PlusMinus\bin\Debug\netcoreapp3.0\PlusMinus.pdb
+C:\github\CSharp\algorithms\PlusMinus\obj\Debug\netcoreapp3.0\PlusMinus.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\PlusMinus\obj\Debug\netcoreapp3.0\PlusMinus.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\PlusMinus\obj\Debug\netcoreapp3.0\PlusMinus.AssemblyInfo.cs
+C:\github\CSharp\algorithms\PlusMinus\obj\Debug\netcoreapp3.0\PlusMinus.dll
+C:\github\CSharp\algorithms\PlusMinus\obj\Debug\netcoreapp3.0\PlusMinus.pdb
