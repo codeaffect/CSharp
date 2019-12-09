@@ -4,10 +4,12 @@
 
 Consider a staircase of size :
 
+```
    #
   ##
  ###
 ####
+```
 
 Observe that its base and height are both equal to , and the image is drawn using # symbols and spaces. The last line is not preceded by any spaces.
 
@@ -40,12 +42,14 @@ Note: The last line must have  spaces in it.
 
 **Sample Output**
 
+```
      #
     ##
    ###
   ####
  #####
 ######
+```
 
 **Explanation**
 
