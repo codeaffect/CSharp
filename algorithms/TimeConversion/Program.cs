@@ -9,10 +9,28 @@ namespace TimeConversion
         */
         static string timeConversion(string s)
         {
-            /*
-            * Write your code here.
-            */
+            var hours = s.Split(':')[0];
+            if (s.ToLower().EndsWith("am"))
+            {
+                if (Convert.ToInt32(hours) < 12)
+                {
+                    return s.Substring(0,s.Length-2);
+                }
+                else
+                {
+                    hours = "00";
+                }
+            }
+            else
+            {
+                if (Convert.ToInt32(hours) != 12)
+                {
+                    hours = (Convert.ToInt32(hours) + 12).ToString();
+                }
+            }
 
+            var result = hours + s.Substring(2, s.Length-4);
+            return result;
         }
 
         static void Main(string[] args)
