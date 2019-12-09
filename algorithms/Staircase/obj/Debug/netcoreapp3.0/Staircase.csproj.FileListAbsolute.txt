@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\Staircase\bin\Debug\netcoreapp3.0\Staircase.exe
+C:\github\CSharp\algorithms\Staircase\bin\Debug\netcoreapp3.0\Staircase.deps.json
+C:\github\CSharp\algorithms\Staircase\bin\Debug\netcoreapp3.0\Staircase.runtimeconfig.json
+C:\github\CSharp\algorithms\Staircase\bin\Debug\netcoreapp3.0\Staircase.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\Staircase\bin\Debug\netcoreapp3.0\Staircase.dll
+C:\github\CSharp\algorithms\Staircase\bin\Debug\netcoreapp3.0\Staircase.pdb
+C:\github\CSharp\algorithms\Staircase\obj\Debug\netcoreapp3.0\Staircase.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\Staircase\obj\Debug\netcoreapp3.0\Staircase.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\Staircase\obj\Debug\netcoreapp3.0\Staircase.AssemblyInfo.cs
+C:\github\CSharp\algorithms\Staircase\obj\Debug\netcoreapp3.0\Staircase.dll
+C:\github\CSharp\algorithms\Staircase\obj\Debug\netcoreapp3.0\Staircase.pdb
