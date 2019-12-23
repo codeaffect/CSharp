@@ -36,31 +36,77 @@ namespace ClimbingTheLeaderboard
 
         static int[] climbingLeaderboard(int[] scores, int[] alice)
         {
-            int aliceCount = alice.Length;
+            int scoresLen = scores.Length;
+            int aliceLen = alice.Length;
 
-            int[] results = new int[aliceCount];
+            int[] res = new int[aliceLen];
+            int[] rank = new int[scoresLen];
 
-            var distinctScores = scores.Distinct().ToList();
+            rank[0] = 1;
 
-            int rank = 0;
-
-            for (int i = 0; i < aliceCount; i++)
+            for (int i = 1; i < scoresLen; i++)
             {
-                int value = alice[i];
-                if (i != 0 && value == alice[i - 1])
+                if (scores[i] == scores[i - 1])
                 {
-                    results[i] = rank;
+                    rank[i] = rank[i - 1];
                 }
-                rank = distinctScores.Count(c => c > alice[i]);
-                if (rank == 0 && !distinctScores.Contains(alice[i]))
+                else
                 {
-                    distinctScores.Add(alice[i]);
+                    rank[i] = rank[i - 1] + 1;
                 }
-                results[i] = ++rank;
-                distinctScores.RemoveAll(c => c <= alice[i]);
             }
 
-            return results;
+            for (int i = 0; i < aliceLen; i++)
+            {
+                int aliceScore = alice[i];
+                if (aliceScore > scores[0])
+                {
+                    res[i] = 1;
+                }
+                else if (aliceScore < scores[scoresLen - 1])
+                {
+                    res[i] = rank[scoresLen - 1] + 1;
+                }
+                else
+                {
+                    int index = binarySearch(scores, aliceScore);
+                    res[i] = rank[index];
+
+                }
+            }
+            return res;
+        }
+        private static int binarySearch(int[] a, int key)
+        {
+
+            int lo = 0;
+            int hi = a.Length - 1;
+
+            while (lo <= hi)
+            {
+                int mid = lo + (hi - lo) / 2;
+                if (a[mid] == key)
+                {
+                    return mid;
+                }
+                else if (a[mid] < key && key < a[mid - 1])
+                {
+                    return mid;
+                }
+                else if (a[mid] > key && key >= a[mid + 1])
+                {
+                    return mid + 1;
+                }
+                else if (a[mid] < key)
+                {
+                    hi = mid - 1;
+                }
+                else if (a[mid] > key)
+                {
+                    lo = mid + 1;
+                }
+            }
+            return -1;
         }
     }
 }
