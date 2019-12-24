@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\quicksort\bin\Debug\netcoreapp3.1\quicksort.exe
+C:\github\CSharp\algorithms\quicksort\bin\Debug\netcoreapp3.1\quicksort.deps.json
+C:\github\CSharp\algorithms\quicksort\bin\Debug\netcoreapp3.1\quicksort.runtimeconfig.json
+C:\github\CSharp\algorithms\quicksort\bin\Debug\netcoreapp3.1\quicksort.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\quicksort\bin\Debug\netcoreapp3.1\quicksort.dll
+C:\github\CSharp\algorithms\quicksort\bin\Debug\netcoreapp3.1\quicksort.pdb
+C:\github\CSharp\algorithms\quicksort\obj\Debug\netcoreapp3.1\quicksort.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\quicksort\obj\Debug\netcoreapp3.1\quicksort.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\quicksort\obj\Debug\netcoreapp3.1\quicksort.AssemblyInfo.cs
+C:\github\CSharp\algorithms\quicksort\obj\Debug\netcoreapp3.1\quicksort.dll
+C:\github\CSharp\algorithms\quicksort\obj\Debug\netcoreapp3.1\quicksort.pdb
