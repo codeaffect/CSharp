@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\AppleAndOrange\bin\Debug\netcoreapp3.1\AppleAndOrange.exe
+C:\github\CSharp\algorithms\AppleAndOrange\bin\Debug\netcoreapp3.1\AppleAndOrange.deps.json
+C:\github\CSharp\algorithms\AppleAndOrange\bin\Debug\netcoreapp3.1\AppleAndOrange.runtimeconfig.json
+C:\github\CSharp\algorithms\AppleAndOrange\bin\Debug\netcoreapp3.1\AppleAndOrange.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\AppleAndOrange\bin\Debug\netcoreapp3.1\AppleAndOrange.dll
+C:\github\CSharp\algorithms\AppleAndOrange\bin\Debug\netcoreapp3.1\AppleAndOrange.pdb
+C:\github\CSharp\algorithms\AppleAndOrange\obj\Debug\netcoreapp3.1\AppleAndOrange.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\AppleAndOrange\obj\Debug\netcoreapp3.1\AppleAndOrange.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\AppleAndOrange\obj\Debug\netcoreapp3.1\AppleAndOrange.AssemblyInfo.cs
+C:\github\CSharp\algorithms\AppleAndOrange\obj\Debug\netcoreapp3.1\AppleAndOrange.dll
+C:\github\CSharp\algorithms\AppleAndOrange\obj\Debug\netcoreapp3.1\AppleAndOrange.pdb
