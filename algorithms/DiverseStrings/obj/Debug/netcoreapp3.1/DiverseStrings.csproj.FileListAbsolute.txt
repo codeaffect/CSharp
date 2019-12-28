@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\DiverseStrings\bin\Debug\netcoreapp3.1\DiverseStrings.exe
+C:\github\CSharp\algorithms\DiverseStrings\bin\Debug\netcoreapp3.1\DiverseStrings.deps.json
+C:\github\CSharp\algorithms\DiverseStrings\bin\Debug\netcoreapp3.1\DiverseStrings.runtimeconfig.json
+C:\github\CSharp\algorithms\DiverseStrings\bin\Debug\netcoreapp3.1\DiverseStrings.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\DiverseStrings\bin\Debug\netcoreapp3.1\DiverseStrings.dll
+C:\github\CSharp\algorithms\DiverseStrings\bin\Debug\netcoreapp3.1\DiverseStrings.pdb
+C:\github\CSharp\algorithms\DiverseStrings\obj\Debug\netcoreapp3.1\DiverseStrings.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\DiverseStrings\obj\Debug\netcoreapp3.1\DiverseStrings.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\DiverseStrings\obj\Debug\netcoreapp3.1\DiverseStrings.AssemblyInfo.cs
+C:\github\CSharp\algorithms\DiverseStrings\obj\Debug\netcoreapp3.1\DiverseStrings.dll
+C:\github\CSharp\algorithms\DiverseStrings\obj\Debug\netcoreapp3.1\DiverseStrings.pdb
