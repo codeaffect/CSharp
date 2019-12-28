@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\AppendAndDelete\bin\Debug\netcoreapp3.1\AppendAndDelete.exe
+C:\github\CSharp\algorithms\AppendAndDelete\bin\Debug\netcoreapp3.1\AppendAndDelete.deps.json
+C:\github\CSharp\algorithms\AppendAndDelete\bin\Debug\netcoreapp3.1\AppendAndDelete.runtimeconfig.json
+C:\github\CSharp\algorithms\AppendAndDelete\bin\Debug\netcoreapp3.1\AppendAndDelete.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\AppendAndDelete\bin\Debug\netcoreapp3.1\AppendAndDelete.dll
+C:\github\CSharp\algorithms\AppendAndDelete\bin\Debug\netcoreapp3.1\AppendAndDelete.pdb
+C:\github\CSharp\algorithms\AppendAndDelete\obj\Debug\netcoreapp3.1\AppendAndDelete.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\AppendAndDelete\obj\Debug\netcoreapp3.1\AppendAndDelete.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\AppendAndDelete\obj\Debug\netcoreapp3.1\AppendAndDelete.AssemblyInfo.cs
+C:\github\CSharp\algorithms\AppendAndDelete\obj\Debug\netcoreapp3.1\AppendAndDelete.dll
+C:\github\CSharp\algorithms\AppendAndDelete\obj\Debug\netcoreapp3.1\AppendAndDelete.pdb
