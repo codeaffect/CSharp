@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCase", "CamelCase\CamelCase.csproj", "{B0B5FBB5-1144-4717-AADE-2970319206DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0B5FBB5-1144-4717-AADE-2970319206DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B5FBB5-1144-4717-AADE-2970319206DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B5FBB5-1144-4717-AADE-2970319206DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B5FBB5-1144-4717-AADE-2970319206DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F89E8C-AC05-4516-8875-E6C583DE7541}
+	EndGlobalSection
+EndGlobal

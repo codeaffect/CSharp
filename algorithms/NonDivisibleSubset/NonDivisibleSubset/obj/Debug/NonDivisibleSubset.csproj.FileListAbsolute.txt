@@ -1,0 +1,7 @@
+C:\Users\snellutla\source\repos\NonDivisibleSubset\NonDivisibleSubset\bin\Debug\NonDivisibleSubset.exe.config
+C:\Users\snellutla\source\repos\NonDivisibleSubset\NonDivisibleSubset\bin\Debug\NonDivisibleSubset.exe
+C:\Users\snellutla\source\repos\NonDivisibleSubset\NonDivisibleSubset\bin\Debug\NonDivisibleSubset.pdb
+C:\Users\snellutla\source\repos\NonDivisibleSubset\NonDivisibleSubset\obj\Debug\NonDivisibleSubset.csprojAssemblyReference.cache
+C:\Users\snellutla\source\repos\NonDivisibleSubset\NonDivisibleSubset\obj\Debug\NonDivisibleSubset.csproj.CoreCompileInputs.cache
+C:\Users\snellutla\source\repos\NonDivisibleSubset\NonDivisibleSubset\obj\Debug\NonDivisibleSubset.exe
+C:\Users\snellutla\source\repos\NonDivisibleSubset\NonDivisibleSubset\obj\Debug\NonDivisibleSubset.pdb

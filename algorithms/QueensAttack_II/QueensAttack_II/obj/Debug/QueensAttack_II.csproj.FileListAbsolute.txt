@@ -1,0 +1,7 @@
+C:\Users\snellutla\source\repos\QueensAttack_II\QueensAttack_II\bin\Debug\QueensAttack_II.exe.config
+C:\Users\snellutla\source\repos\QueensAttack_II\QueensAttack_II\bin\Debug\QueensAttack_II.exe
+C:\Users\snellutla\source\repos\QueensAttack_II\QueensAttack_II\bin\Debug\QueensAttack_II.pdb
+C:\Users\snellutla\source\repos\QueensAttack_II\QueensAttack_II\obj\Debug\QueensAttack_II.csprojAssemblyReference.cache
+C:\Users\snellutla\source\repos\QueensAttack_II\QueensAttack_II\obj\Debug\QueensAttack_II.csproj.CoreCompileInputs.cache
+C:\Users\snellutla\source\repos\QueensAttack_II\QueensAttack_II\obj\Debug\QueensAttack_II.exe
+C:\Users\snellutla\source\repos\QueensAttack_II\QueensAttack_II\obj\Debug\QueensAttack_II.pdb

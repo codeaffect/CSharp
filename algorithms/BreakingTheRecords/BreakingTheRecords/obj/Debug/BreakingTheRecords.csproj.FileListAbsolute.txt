@@ -1,0 +1,7 @@
+C:\Users\snellutla\source\repos\BreakingTheRecords\BreakingTheRecords\bin\Debug\BreakingTheRecords.exe.config
+C:\Users\snellutla\source\repos\BreakingTheRecords\BreakingTheRecords\bin\Debug\BreakingTheRecords.exe
+C:\Users\snellutla\source\repos\BreakingTheRecords\BreakingTheRecords\bin\Debug\BreakingTheRecords.pdb
+C:\Users\snellutla\source\repos\BreakingTheRecords\BreakingTheRecords\obj\Debug\BreakingTheRecords.csprojAssemblyReference.cache
+C:\Users\snellutla\source\repos\BreakingTheRecords\BreakingTheRecords\obj\Debug\BreakingTheRecords.csproj.CoreCompileInputs.cache
+C:\Users\snellutla\source\repos\BreakingTheRecords\BreakingTheRecords\obj\Debug\BreakingTheRecords.exe
+C:\Users\snellutla\source\repos\BreakingTheRecords\BreakingTheRecords\obj\Debug\BreakingTheRecords.pdb

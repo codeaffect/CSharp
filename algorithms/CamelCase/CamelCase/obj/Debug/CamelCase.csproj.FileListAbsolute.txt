@@ -1,0 +1,7 @@
+C:\Users\snellutla\source\repos\CamelCase\CamelCase\bin\Debug\CamelCase.exe.config
+C:\Users\snellutla\source\repos\CamelCase\CamelCase\bin\Debug\CamelCase.exe
+C:\Users\snellutla\source\repos\CamelCase\CamelCase\bin\Debug\CamelCase.pdb
+C:\Users\snellutla\source\repos\CamelCase\CamelCase\obj\Debug\CamelCase.csprojAssemblyReference.cache
+C:\Users\snellutla\source\repos\CamelCase\CamelCase\obj\Debug\CamelCase.csproj.CoreCompileInputs.cache
+C:\Users\snellutla\source\repos\CamelCase\CamelCase\obj\Debug\CamelCase.exe
+C:\Users\snellutla\source\repos\CamelCase\CamelCase\obj\Debug\CamelCase.pdb

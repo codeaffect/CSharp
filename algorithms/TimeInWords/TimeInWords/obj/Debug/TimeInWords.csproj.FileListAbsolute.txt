@@ -1,0 +1,7 @@
+C:\Users\snellutla\source\repos\TimeInWords\TimeInWords\bin\Debug\TimeInWords.exe.config
+C:\Users\snellutla\source\repos\TimeInWords\TimeInWords\bin\Debug\TimeInWords.exe
+C:\Users\snellutla\source\repos\TimeInWords\TimeInWords\bin\Debug\TimeInWords.pdb
+C:\Users\snellutla\source\repos\TimeInWords\TimeInWords\obj\Debug\TimeInWords.csprojAssemblyReference.cache
+C:\Users\snellutla\source\repos\TimeInWords\TimeInWords\obj\Debug\TimeInWords.csproj.CoreCompileInputs.cache
+C:\Users\snellutla\source\repos\TimeInWords\TimeInWords\obj\Debug\TimeInWords.exe
+C:\Users\snellutla\source\repos\TimeInWords\TimeInWords\obj\Debug\TimeInWords.pdb
