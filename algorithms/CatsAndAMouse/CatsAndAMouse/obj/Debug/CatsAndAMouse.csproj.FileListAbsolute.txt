@@ -1,0 +1,7 @@
+C:\git-hub\personal\CSharp\CatsAndAMouse\CatsAndAMouse\bin\Debug\CatsAndAMouse.exe.config
+C:\git-hub\personal\CSharp\CatsAndAMouse\CatsAndAMouse\bin\Debug\CatsAndAMouse.exe
+C:\git-hub\personal\CSharp\CatsAndAMouse\CatsAndAMouse\bin\Debug\CatsAndAMouse.pdb
+C:\git-hub\personal\CSharp\CatsAndAMouse\CatsAndAMouse\obj\Debug\CatsAndAMouse.csprojAssemblyReference.cache
+C:\git-hub\personal\CSharp\CatsAndAMouse\CatsAndAMouse\obj\Debug\CatsAndAMouse.csproj.CoreCompileInputs.cache
+C:\git-hub\personal\CSharp\CatsAndAMouse\CatsAndAMouse\obj\Debug\CatsAndAMouse.exe
+C:\git-hub\personal\CSharp\CatsAndAMouse\CatsAndAMouse\obj\Debug\CatsAndAMouse.pdb

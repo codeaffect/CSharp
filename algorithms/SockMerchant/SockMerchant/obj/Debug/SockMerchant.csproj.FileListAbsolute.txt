@@ -1,0 +1,7 @@
+C:\git-hub\personal\CSharp\SockMerchant\SockMerchant\bin\Debug\SockMerchant.exe.config
+C:\git-hub\personal\CSharp\SockMerchant\SockMerchant\bin\Debug\SockMerchant.exe
+C:\git-hub\personal\CSharp\SockMerchant\SockMerchant\bin\Debug\SockMerchant.pdb
+C:\git-hub\personal\CSharp\SockMerchant\SockMerchant\obj\Debug\SockMerchant.csprojAssemblyReference.cache
+C:\git-hub\personal\CSharp\SockMerchant\SockMerchant\obj\Debug\SockMerchant.csproj.CoreCompileInputs.cache
+C:\git-hub\personal\CSharp\SockMerchant\SockMerchant\obj\Debug\SockMerchant.exe
+C:\git-hub\personal\CSharp\SockMerchant\SockMerchant\obj\Debug\SockMerchant.pdb
