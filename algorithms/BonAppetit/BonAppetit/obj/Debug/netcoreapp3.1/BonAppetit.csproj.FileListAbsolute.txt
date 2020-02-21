@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\BonAppetit\BonAppetit\bin\Debug\netcoreapp3.1\BonAppetit.exe
+C:\github\CSharp\algorithms\BonAppetit\BonAppetit\bin\Debug\netcoreapp3.1\BonAppetit.deps.json
+C:\github\CSharp\algorithms\BonAppetit\BonAppetit\bin\Debug\netcoreapp3.1\BonAppetit.runtimeconfig.json
+C:\github\CSharp\algorithms\BonAppetit\BonAppetit\bin\Debug\netcoreapp3.1\BonAppetit.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\BonAppetit\BonAppetit\bin\Debug\netcoreapp3.1\BonAppetit.dll
+C:\github\CSharp\algorithms\BonAppetit\BonAppetit\bin\Debug\netcoreapp3.1\BonAppetit.pdb
+C:\github\CSharp\algorithms\BonAppetit\BonAppetit\obj\Debug\netcoreapp3.1\BonAppetit.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\BonAppetit\BonAppetit\obj\Debug\netcoreapp3.1\BonAppetit.AssemblyInfo.cs
+C:\github\CSharp\algorithms\BonAppetit\BonAppetit\obj\Debug\netcoreapp3.1\BonAppetit.dll
+C:\github\CSharp\algorithms\BonAppetit\BonAppetit\obj\Debug\netcoreapp3.1\BonAppetit.pdb
+C:\github\CSharp\algorithms\BonAppetit\BonAppetit\obj\Debug\netcoreapp3.1\BonAppetit.csprojAssemblyReference.cache
