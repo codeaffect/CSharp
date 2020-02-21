@@ -1,0 +1,7 @@
+C:\git-hub\personal\CSharp\CountingValleys\CountingValleys\bin\Debug\CountingValleys.exe.config
+C:\git-hub\personal\CSharp\CountingValleys\CountingValleys\bin\Debug\CountingValleys.exe
+C:\git-hub\personal\CSharp\CountingValleys\CountingValleys\bin\Debug\CountingValleys.pdb
+C:\git-hub\personal\CSharp\CountingValleys\CountingValleys\obj\Debug\CountingValleys.csprojAssemblyReference.cache
+C:\git-hub\personal\CSharp\CountingValleys\CountingValleys\obj\Debug\CountingValleys.csproj.CoreCompileInputs.cache
+C:\git-hub\personal\CSharp\CountingValleys\CountingValleys\obj\Debug\CountingValleys.exe
+C:\git-hub\personal\CSharp\CountingValleys\CountingValleys\obj\Debug\CountingValleys.pdb

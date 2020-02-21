@@ -1,0 +1,7 @@
+C:\Users\snellutla\source\repos\Migratory Birds\Migratory Birds\bin\Debug\Migratory Birds.exe.config
+C:\Users\snellutla\source\repos\Migratory Birds\Migratory Birds\bin\Debug\Migratory Birds.exe
+C:\Users\snellutla\source\repos\Migratory Birds\Migratory Birds\bin\Debug\Migratory Birds.pdb
+C:\Users\snellutla\source\repos\Migratory Birds\Migratory Birds\obj\Debug\Migratory Birds.csprojAssemblyReference.cache
+C:\Users\snellutla\source\repos\Migratory Birds\Migratory Birds\obj\Debug\Migratory Birds.csproj.CoreCompileInputs.cache
+C:\Users\snellutla\source\repos\Migratory Birds\Migratory Birds\obj\Debug\Migratory Birds.exe
+C:\Users\snellutla\source\repos\Migratory Birds\Migratory Birds\obj\Debug\Migratory Birds.pdb

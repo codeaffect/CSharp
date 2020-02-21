@@ -1,0 +1,6 @@
+C:\git-hub\personal\CSharp\DrawingBook\DrawingBook\bin\Debug\DrawingBook.exe.config
+C:\git-hub\personal\CSharp\DrawingBook\DrawingBook\bin\Debug\DrawingBook.exe
+C:\git-hub\personal\CSharp\DrawingBook\DrawingBook\bin\Debug\DrawingBook.pdb
+C:\git-hub\personal\CSharp\DrawingBook\DrawingBook\obj\Debug\DrawingBook.csproj.CoreCompileInputs.cache
+C:\git-hub\personal\CSharp\DrawingBook\DrawingBook\obj\Debug\DrawingBook.exe
+C:\git-hub\personal\CSharp\DrawingBook\DrawingBook\obj\Debug\DrawingBook.pdb
