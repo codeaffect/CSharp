@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\CSharp\\algorithms\\BinarySearch\\BinarySearch.csproj",
-      "projectName": "BinarySearch",
-      "projectPath": "C:\\github\\CSharp\\algorithms\\BinarySearch\\BinarySearch.csproj",
+      "projectUniqueName": "C:\\github\\CSharp\\algorithms\\queensattack_2\\queensattack_2.csproj",
+      "projectName": "queensattack_2",
+      "projectPath": "C:\\github\\CSharp\\algorithms\\queensattack_2\\queensattack_2.csproj",
       "packagesPath": "C:\\Users\\Corsair\\.nuget\\packages\\",
-      "outputPath": "C:\\github\\CSharp\\algorithms\\BinarySearch\\obj\\",
+      "outputPath": "C:\\github\\CSharp\\algorithms\\queensattack_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

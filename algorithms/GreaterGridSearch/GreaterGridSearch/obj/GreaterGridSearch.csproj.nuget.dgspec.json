@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github\\CSharp\\algorithms\\BinarySearch\\BinarySearch.csproj": {}
+    "C:\\github\\CSharp\\algorithms\\GreaterGridSearch\\GreaterGridSearch\\GreaterGridSearch.csproj": {}
   },
   "projects": {
-    "C:\\github\\CSharp\\algorithms\\BinarySearch\\BinarySearch.csproj": {
+    "C:\\github\\CSharp\\algorithms\\GreaterGridSearch\\GreaterGridSearch\\GreaterGridSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github\\CSharp\\algorithms\\BinarySearch\\BinarySearch.csproj",
-        "projectName": "BinarySearch",
-        "projectPath": "C:\\github\\CSharp\\algorithms\\BinarySearch\\BinarySearch.csproj",
+        "projectUniqueName": "C:\\github\\CSharp\\algorithms\\GreaterGridSearch\\GreaterGridSearch\\GreaterGridSearch.csproj",
+        "projectName": "GreaterGridSearch",
+        "projectPath": "C:\\github\\CSharp\\algorithms\\GreaterGridSearch\\GreaterGridSearch\\GreaterGridSearch.csproj",
         "packagesPath": "C:\\Users\\Corsair\\.nuget\\packages\\",
-        "outputPath": "C:\\github\\CSharp\\algorithms\\BinarySearch\\obj\\",
+        "outputPath": "C:\\github\\CSharp\\algorithms\\GreaterGridSearch\\GreaterGridSearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
