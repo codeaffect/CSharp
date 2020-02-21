@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\GradingStudents\bin\Debug\netcoreapp3.0\GradingStudents.exe
+C:\github\CSharp\algorithms\GradingStudents\bin\Debug\netcoreapp3.0\GradingStudents.deps.json
+C:\github\CSharp\algorithms\GradingStudents\bin\Debug\netcoreapp3.0\GradingStudents.runtimeconfig.json
+C:\github\CSharp\algorithms\GradingStudents\bin\Debug\netcoreapp3.0\GradingStudents.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\GradingStudents\bin\Debug\netcoreapp3.0\GradingStudents.dll
+C:\github\CSharp\algorithms\GradingStudents\bin\Debug\netcoreapp3.0\GradingStudents.pdb
+C:\github\CSharp\algorithms\GradingStudents\obj\Debug\netcoreapp3.0\GradingStudents.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\GradingStudents\obj\Debug\netcoreapp3.0\GradingStudents.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\GradingStudents\obj\Debug\netcoreapp3.0\GradingStudents.AssemblyInfo.cs
+C:\github\CSharp\algorithms\GradingStudents\obj\Debug\netcoreapp3.0\GradingStudents.dll
+C:\github\CSharp\algorithms\GradingStudents\obj\Debug\netcoreapp3.0\GradingStudents.pdb

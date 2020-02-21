@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\ClimbingTheLeaderboard\bin\Debug\netcoreapp3.1\ClimbingTheLeaderboard.exe
+C:\github\CSharp\algorithms\ClimbingTheLeaderboard\bin\Debug\netcoreapp3.1\ClimbingTheLeaderboard.deps.json
+C:\github\CSharp\algorithms\ClimbingTheLeaderboard\bin\Debug\netcoreapp3.1\ClimbingTheLeaderboard.runtimeconfig.json
+C:\github\CSharp\algorithms\ClimbingTheLeaderboard\bin\Debug\netcoreapp3.1\ClimbingTheLeaderboard.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\ClimbingTheLeaderboard\bin\Debug\netcoreapp3.1\ClimbingTheLeaderboard.dll
+C:\github\CSharp\algorithms\ClimbingTheLeaderboard\bin\Debug\netcoreapp3.1\ClimbingTheLeaderboard.pdb
+C:\github\CSharp\algorithms\ClimbingTheLeaderboard\obj\Debug\netcoreapp3.1\ClimbingTheLeaderboard.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\ClimbingTheLeaderboard\obj\Debug\netcoreapp3.1\ClimbingTheLeaderboard.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\ClimbingTheLeaderboard\obj\Debug\netcoreapp3.1\ClimbingTheLeaderboard.AssemblyInfo.cs
+C:\github\CSharp\algorithms\ClimbingTheLeaderboard\obj\Debug\netcoreapp3.1\ClimbingTheLeaderboard.dll
+C:\github\CSharp\algorithms\ClimbingTheLeaderboard\obj\Debug\netcoreapp3.1\ClimbingTheLeaderboard.pdb

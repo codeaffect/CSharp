@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\GreaterGridSearch\GreaterGridSearch\bin\Debug\netcoreapp3.1\GreaterGridSearch.exe
+C:\github\CSharp\algorithms\GreaterGridSearch\GreaterGridSearch\bin\Debug\netcoreapp3.1\GreaterGridSearch.deps.json
+C:\github\CSharp\algorithms\GreaterGridSearch\GreaterGridSearch\bin\Debug\netcoreapp3.1\GreaterGridSearch.runtimeconfig.json
+C:\github\CSharp\algorithms\GreaterGridSearch\GreaterGridSearch\bin\Debug\netcoreapp3.1\GreaterGridSearch.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\GreaterGridSearch\GreaterGridSearch\bin\Debug\netcoreapp3.1\GreaterGridSearch.dll
+C:\github\CSharp\algorithms\GreaterGridSearch\GreaterGridSearch\bin\Debug\netcoreapp3.1\GreaterGridSearch.pdb
+C:\github\CSharp\algorithms\GreaterGridSearch\GreaterGridSearch\obj\Debug\netcoreapp3.1\GreaterGridSearch.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\GreaterGridSearch\GreaterGridSearch\obj\Debug\netcoreapp3.1\GreaterGridSearch.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\GreaterGridSearch\GreaterGridSearch\obj\Debug\netcoreapp3.1\GreaterGridSearch.AssemblyInfo.cs
+C:\github\CSharp\algorithms\GreaterGridSearch\GreaterGridSearch\obj\Debug\netcoreapp3.1\GreaterGridSearch.dll
+C:\github\CSharp\algorithms\GreaterGridSearch\GreaterGridSearch\obj\Debug\netcoreapp3.1\GreaterGridSearch.pdb

@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\DiagonalDimension\bin\Debug\netcoreapp3.0\DiagonalDimension.exe
+C:\github\CSharp\algorithms\DiagonalDimension\bin\Debug\netcoreapp3.0\DiagonalDimension.deps.json
+C:\github\CSharp\algorithms\DiagonalDimension\bin\Debug\netcoreapp3.0\DiagonalDimension.runtimeconfig.json
+C:\github\CSharp\algorithms\DiagonalDimension\bin\Debug\netcoreapp3.0\DiagonalDimension.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\DiagonalDimension\bin\Debug\netcoreapp3.0\DiagonalDimension.dll
+C:\github\CSharp\algorithms\DiagonalDimension\bin\Debug\netcoreapp3.0\DiagonalDimension.pdb
+C:\github\CSharp\algorithms\DiagonalDimension\obj\Debug\netcoreapp3.0\DiagonalDimension.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\DiagonalDimension\obj\Debug\netcoreapp3.0\DiagonalDimension.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\DiagonalDimension\obj\Debug\netcoreapp3.0\DiagonalDimension.AssemblyInfo.cs
+C:\github\CSharp\algorithms\DiagonalDimension\obj\Debug\netcoreapp3.0\DiagonalDimension.dll
+C:\github\CSharp\algorithms\DiagonalDimension\obj\Debug\netcoreapp3.0\DiagonalDimension.pdb

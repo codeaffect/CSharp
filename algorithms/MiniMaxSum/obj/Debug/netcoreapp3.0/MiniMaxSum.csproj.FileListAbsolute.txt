@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\MiniMaxSum\obj\Debug\netcoreapp3.0\MiniMaxSum.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\MiniMaxSum\obj\Debug\netcoreapp3.0\MiniMaxSum.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\MiniMaxSum\obj\Debug\netcoreapp3.0\MiniMaxSum.AssemblyInfo.cs
+C:\github\CSharp\algorithms\MiniMaxSum\bin\Debug\netcoreapp3.0\MiniMaxSum.exe
+C:\github\CSharp\algorithms\MiniMaxSum\bin\Debug\netcoreapp3.0\MiniMaxSum.deps.json
+C:\github\CSharp\algorithms\MiniMaxSum\bin\Debug\netcoreapp3.0\MiniMaxSum.runtimeconfig.json
+C:\github\CSharp\algorithms\MiniMaxSum\bin\Debug\netcoreapp3.0\MiniMaxSum.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\MiniMaxSum\bin\Debug\netcoreapp3.0\MiniMaxSum.dll
+C:\github\CSharp\algorithms\MiniMaxSum\bin\Debug\netcoreapp3.0\MiniMaxSum.pdb
+C:\github\CSharp\algorithms\MiniMaxSum\obj\Debug\netcoreapp3.0\MiniMaxSum.dll
+C:\github\CSharp\algorithms\MiniMaxSum\obj\Debug\netcoreapp3.0\MiniMaxSum.pdb

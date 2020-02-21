@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\queensattack_2\bin\Debug\netcoreapp3.1\queensattack_2.exe
+C:\github\CSharp\algorithms\queensattack_2\bin\Debug\netcoreapp3.1\queensattack_2.deps.json
+C:\github\CSharp\algorithms\queensattack_2\bin\Debug\netcoreapp3.1\queensattack_2.runtimeconfig.json
+C:\github\CSharp\algorithms\queensattack_2\bin\Debug\netcoreapp3.1\queensattack_2.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\queensattack_2\bin\Debug\netcoreapp3.1\queensattack_2.dll
+C:\github\CSharp\algorithms\queensattack_2\bin\Debug\netcoreapp3.1\queensattack_2.pdb
+C:\github\CSharp\algorithms\queensattack_2\obj\Debug\netcoreapp3.1\queensattack_2.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\queensattack_2\obj\Debug\netcoreapp3.1\queensattack_2.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\queensattack_2\obj\Debug\netcoreapp3.1\queensattack_2.AssemblyInfo.cs
+C:\github\CSharp\algorithms\queensattack_2\obj\Debug\netcoreapp3.1\queensattack_2.dll
+C:\github\CSharp\algorithms\queensattack_2\obj\Debug\netcoreapp3.1\queensattack_2.pdb

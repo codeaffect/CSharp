@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\FormingAMagicSquare\obj\Debug\netcoreapp3.0\FormingAMagicSquare.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\FormingAMagicSquare\obj\Debug\netcoreapp3.0\FormingAMagicSquare.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\FormingAMagicSquare\obj\Debug\netcoreapp3.0\FormingAMagicSquare.AssemblyInfo.cs
+C:\github\CSharp\algorithms\FormingAMagicSquare\bin\Debug\netcoreapp3.0\FormingAMagicSquare.exe
+C:\github\CSharp\algorithms\FormingAMagicSquare\bin\Debug\netcoreapp3.0\FormingAMagicSquare.deps.json
+C:\github\CSharp\algorithms\FormingAMagicSquare\bin\Debug\netcoreapp3.0\FormingAMagicSquare.runtimeconfig.json
+C:\github\CSharp\algorithms\FormingAMagicSquare\bin\Debug\netcoreapp3.0\FormingAMagicSquare.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\FormingAMagicSquare\bin\Debug\netcoreapp3.0\FormingAMagicSquare.dll
+C:\github\CSharp\algorithms\FormingAMagicSquare\bin\Debug\netcoreapp3.0\FormingAMagicSquare.pdb
+C:\github\CSharp\algorithms\FormingAMagicSquare\obj\Debug\netcoreapp3.0\FormingAMagicSquare.dll
+C:\github\CSharp\algorithms\FormingAMagicSquare\obj\Debug\netcoreapp3.0\FormingAMagicSquare.pdb

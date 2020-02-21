@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.exe
+C:\github\CSharp\algorithms\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.deps.json
+C:\github\CSharp\algorithms\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.json
+C:\github\CSharp\algorithms\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.dll
+C:\github\CSharp\algorithms\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.pdb
+C:\github\CSharp\algorithms\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfo.cs
+C:\github\CSharp\algorithms\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.dll
+C:\github\CSharp\algorithms\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.pdb

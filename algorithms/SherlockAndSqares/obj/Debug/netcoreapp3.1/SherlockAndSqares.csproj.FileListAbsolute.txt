@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\SherlockAndSqares\bin\Debug\netcoreapp3.1\SherlockAndSqares.exe
+C:\github\CSharp\algorithms\SherlockAndSqares\bin\Debug\netcoreapp3.1\SherlockAndSqares.deps.json
+C:\github\CSharp\algorithms\SherlockAndSqares\bin\Debug\netcoreapp3.1\SherlockAndSqares.runtimeconfig.json
+C:\github\CSharp\algorithms\SherlockAndSqares\bin\Debug\netcoreapp3.1\SherlockAndSqares.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\SherlockAndSqares\bin\Debug\netcoreapp3.1\SherlockAndSqares.dll
+C:\github\CSharp\algorithms\SherlockAndSqares\bin\Debug\netcoreapp3.1\SherlockAndSqares.pdb
+C:\github\CSharp\algorithms\SherlockAndSqares\obj\Debug\netcoreapp3.1\SherlockAndSqares.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\SherlockAndSqares\obj\Debug\netcoreapp3.1\SherlockAndSqares.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\SherlockAndSqares\obj\Debug\netcoreapp3.1\SherlockAndSqares.AssemblyInfo.cs
+C:\github\CSharp\algorithms\SherlockAndSqares\obj\Debug\netcoreapp3.1\SherlockAndSqares.dll
+C:\github\CSharp\algorithms\SherlockAndSqares\obj\Debug\netcoreapp3.1\SherlockAndSqares.pdb

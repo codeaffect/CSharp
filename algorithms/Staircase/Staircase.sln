@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "Staircase.csproj", "{B9634511-645F-492A-BF1A-DCF0611842DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9634511-645F-492A-BF1A-DCF0611842DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9634511-645F-492A-BF1A-DCF0611842DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9634511-645F-492A-BF1A-DCF0611842DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9634511-645F-492A-BF1A-DCF0611842DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF0AAF7-83F0-4EDA-9F51-6BA5044F2DB1}
+	EndGlobalSection
+EndGlobal

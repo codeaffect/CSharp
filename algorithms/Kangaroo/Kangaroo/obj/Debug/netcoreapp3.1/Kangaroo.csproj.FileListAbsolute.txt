@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\Kangaroo\Kangaroo\bin\Debug\netcoreapp3.1\Kangaroo.exe
+C:\github\CSharp\algorithms\Kangaroo\Kangaroo\bin\Debug\netcoreapp3.1\Kangaroo.deps.json
+C:\github\CSharp\algorithms\Kangaroo\Kangaroo\bin\Debug\netcoreapp3.1\Kangaroo.runtimeconfig.json
+C:\github\CSharp\algorithms\Kangaroo\Kangaroo\bin\Debug\netcoreapp3.1\Kangaroo.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\Kangaroo\Kangaroo\bin\Debug\netcoreapp3.1\Kangaroo.dll
+C:\github\CSharp\algorithms\Kangaroo\Kangaroo\bin\Debug\netcoreapp3.1\Kangaroo.pdb
+C:\github\CSharp\algorithms\Kangaroo\Kangaroo\obj\Debug\netcoreapp3.1\Kangaroo.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\Kangaroo\Kangaroo\obj\Debug\netcoreapp3.1\Kangaroo.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\Kangaroo\Kangaroo\obj\Debug\netcoreapp3.1\Kangaroo.AssemblyInfo.cs
+C:\github\CSharp\algorithms\Kangaroo\Kangaroo\obj\Debug\netcoreapp3.1\Kangaroo.dll
+C:\github\CSharp\algorithms\Kangaroo\Kangaroo\obj\Debug\netcoreapp3.1\Kangaroo.pdb
