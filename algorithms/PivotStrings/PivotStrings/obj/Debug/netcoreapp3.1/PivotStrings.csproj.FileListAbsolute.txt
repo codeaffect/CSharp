@@ -1,0 +1,11 @@
+C:\github\CSharp\algorithms\PivotStrings\PivotStrings\bin\Debug\netcoreapp3.1\PivotStrings.exe
+C:\github\CSharp\algorithms\PivotStrings\PivotStrings\bin\Debug\netcoreapp3.1\PivotStrings.deps.json
+C:\github\CSharp\algorithms\PivotStrings\PivotStrings\bin\Debug\netcoreapp3.1\PivotStrings.runtimeconfig.json
+C:\github\CSharp\algorithms\PivotStrings\PivotStrings\bin\Debug\netcoreapp3.1\PivotStrings.runtimeconfig.dev.json
+C:\github\CSharp\algorithms\PivotStrings\PivotStrings\bin\Debug\netcoreapp3.1\PivotStrings.dll
+C:\github\CSharp\algorithms\PivotStrings\PivotStrings\bin\Debug\netcoreapp3.1\PivotStrings.pdb
+C:\github\CSharp\algorithms\PivotStrings\PivotStrings\obj\Debug\netcoreapp3.1\PivotStrings.csprojAssemblyReference.cache
+C:\github\CSharp\algorithms\PivotStrings\PivotStrings\obj\Debug\netcoreapp3.1\PivotStrings.AssemblyInfoInputs.cache
+C:\github\CSharp\algorithms\PivotStrings\PivotStrings\obj\Debug\netcoreapp3.1\PivotStrings.AssemblyInfo.cs
+C:\github\CSharp\algorithms\PivotStrings\PivotStrings\obj\Debug\netcoreapp3.1\PivotStrings.dll
+C:\github\CSharp\algorithms\PivotStrings\PivotStrings\obj\Debug\netcoreapp3.1\PivotStrings.pdb
