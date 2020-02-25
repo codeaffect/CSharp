@@ -1,0 +1,11 @@
+C:\git-hub\personal\CSharp\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp2.2\PickingNumbers.deps.json
+C:\git-hub\personal\CSharp\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp2.2\PickingNumbers.runtimeconfig.json
+C:\git-hub\personal\CSharp\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp2.2\PickingNumbers.runtimeconfig.dev.json
+C:\git-hub\personal\CSharp\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp2.2\PickingNumbers.dll
+C:\git-hub\personal\CSharp\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp2.2\PickingNumbers.pdb
+C:\git-hub\personal\CSharp\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp2.2\PickingNumbers.csprojAssemblyReference.cache
+C:\git-hub\personal\CSharp\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp2.2\PickingNumbers.csproj.CoreCompileInputs.cache
+C:\git-hub\personal\CSharp\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp2.2\PickingNumbers.AssemblyInfoInputs.cache
+C:\git-hub\personal\CSharp\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp2.2\PickingNumbers.AssemblyInfo.cs
+C:\git-hub\personal\CSharp\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp2.2\PickingNumbers.dll
+C:\git-hub\personal\CSharp\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp2.2\PickingNumbers.pdb
